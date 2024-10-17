@@ -10,8 +10,9 @@ public class Student {
 
         }
         public Student(String name, String email, String course){
-            this.name = name;
+
             this.email = email;
+            this.name = name;
             this.course = course;
         }
 
